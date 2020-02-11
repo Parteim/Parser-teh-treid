@@ -1,0 +1,7 @@
+-- python yersion
+python 3.8
+-- libraries
+BeautifulSoup4
+requests
+xlwt
+
